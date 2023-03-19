@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - tests function that prints if an integer is +ve or -ve.
  *
